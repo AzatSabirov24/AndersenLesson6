@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_tv_name">30sp</dimen>
+    <dimen name="padding_default">6dp</dimen>
+    <dimen name="margin_card_view">2dp</dimen>
+    <dimen name="width_contact_image">100dp</dimen>
+    <dimen name="height_contact_image">100dp</dimen>
+    <dimen name="width_contact_image_detail">200dp</dimen>
+    <dimen name="height_contact_image_detail">200dp</dimen>
+    <dimen name="text_size_detail_default">24sp</dimen>
+</resources>

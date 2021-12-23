@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewAndersen</string>
+    <string name="popup_menu_delete">Delete</string>
+</resources>
